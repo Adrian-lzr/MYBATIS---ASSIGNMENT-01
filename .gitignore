@@ -1,0 +1,10 @@
+out/
+pdf_pages/
+target/
+data/
+*.mv.db
+*.trace.db
+.idea/
+*.iml
+.tools/
+out-db/
